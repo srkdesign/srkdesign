@@ -1,7 +1,8 @@
-<img alt="hero" src="https://github.com/user-attachments/assets/425beb52-4517-4b4a-846c-a72eba9ffcc5" />
+<img width="100%" height="auto" alt="hero" src="https://github.com/user-attachments/assets/c469a470-9bea-4929-bc9c-32cd5bb496c4" />
 
 ## About
 - Completed over 90 projects on web design and no-code development
+
 
 ## Posts
 - [Breadcrumbs for better UX](https://srkdesign.pro/blog/breadcrumbs-for-better-ux/)
