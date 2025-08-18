@@ -1,4 +1,4 @@
-<img width="100%" height="auto" alt="hero" src="https://github.com/user-attachments/assets/c469a470-9bea-4929-bc9c-32cd5bb496c4" />
+<img width="100%" height="auto" alt="hero" src="https://github.com/user-attachments/assets/c35dd24a-ca60-4196-8f21-6b13b250c490" />
 
 ## About
 - Completed over 90 projects on web design and no-code development
